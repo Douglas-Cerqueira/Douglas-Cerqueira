@@ -2,11 +2,7 @@
 <h3 align="center">Apaixonado por resolver problemas com tecnologia e construir soluções úteis</h3>
 
 
-- 🔭 Atualmente estava trabalhando em **Projetos Pessoais**
 
-- 📫 Como entrar em contato comigo **douglas.cerqueira25@gmail.com**
-
-- 🌱 Estou aprendendo atualmente **C#.NET**
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="typescript logo"  />
